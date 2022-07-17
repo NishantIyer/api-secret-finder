@@ -4,7 +4,7 @@ SecretFinder is a python script based on LinkFinder written to discover sensitiv
 
 The output is given in HTML or plaintext.
 
-![main](https://i.imgur.com/D7MT2KL.png)
+![main](https://media.discordapp.net/attachments/995199509552447558/998068250355183736/blackarch-nish.png?width=1025&height=355)
 
 
 
